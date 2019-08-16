@@ -7,8 +7,6 @@ import io.swagger.annotations.ApiImplicitParams;
 import io.swagger.annotations.ApiOperation;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.Map;
-
 /**
  * 创建 by xueyo on 2019/8/14
  */
